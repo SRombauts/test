@@ -1,0 +1,1 @@
+Test repository for git remote config and commands
